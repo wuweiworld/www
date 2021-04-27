@@ -1,1 +1,1 @@
-# repository for wuwei.world
+# wuwei.world
